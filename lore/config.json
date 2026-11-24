@@ -1,0 +1,43 @@
+{
+  "versao": 1,
+  "estadosCanone": [
+    {
+      "id": "rascunho",
+      "rotulo": "Rascunho"
+    },
+    {
+      "id": "canonico",
+      "rotulo": "Canônico"
+    },
+    {
+      "id": "em-disputa",
+      "rotulo": "Em disputa"
+    }
+  ],
+  "categorias": [
+    {
+      "id": "visao",
+      "rotulo": "Visão geral"
+    },
+    {
+      "id": "mundo",
+      "rotulo": "Mundo, organizações e poder"
+    },
+    {
+      "id": "personagens",
+      "rotulo": "Personagens e núcleos"
+    },
+    {
+      "id": "enredo",
+      "rotulo": "Fases e enredo"
+    },
+    {
+      "id": "temas",
+      "rotulo": "Temas, tom e princípios"
+    },
+    {
+      "id": "aberto",
+      "rotulo": "Em aberto"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "versao": 1,
+  "nos": [
+    {
+      "id": "liv_97c93564",
+      "tipo": "livro",
+      "pai": null,
+      "titulo": "Livro I",
+      "sinopse": "",
+      "notas": "",
+      "estado": "rascunho",
+      "arquivo": null,
+      "arquivado": false,
+      "criadoEm": "2026-11-23T23:53:25.366Z",
+      "colecao": "principal",
+      "capa": null
+    },
+    {
+      "id": "cap_6143df38",
+      "tipo": "capitulo",
+      "pai": "liv_97c93564",
+      "titulo": "O Pacto do Meridiano",
+      "sinopse": "",
+      "notas": "",
+      "estado": "rascunho",
+      "arquivo": "manuscrito/o-pacto-do-meridiano-6143df38.md",
+      "arquivado": false,
+      "criadoEm": "2026-11-23T23:53:25.367Z"
+    }
+  ]
+}
